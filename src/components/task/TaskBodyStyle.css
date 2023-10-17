@@ -1,0 +1,15 @@
+.taskBody{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    border-radius: 10px;
+    overflow: auto;
+}
+.formBody{
+    padding: 20px;
+    text-align: center;
+}
+.form-group{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
